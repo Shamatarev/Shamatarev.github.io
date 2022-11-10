@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+  
+    /* BEGIN (write your solution here) */
+  color: #333;
+  font-size: 18px;
+    /* END */
+    font-family: sans-serif;
+    line-height: 1.5;
+  }
+  h1 {
+  /* BEGIN (write your solution here) */
+  font-size: 60px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  text-align: center;
+  /* END */
+  }
+  
+  
+  h2 {
+    /* BEGIN (write your solution here) */
+  font-size: 25px;
+  margin-top: 0;
+  padding-bottom: 30px;
+  text-align: center;
+    
+    /* END */
+  
+    border-bottom: 2px solid #e3e3e3;
+  }
+  
+  section {
+  margin: 50px 0px;
+  padding: 0px 50px;
+  
+  }
+  
+  main {
+    width: 900px;
+    margin: auto;
+  }
+  
+  section h2 {
+  padding: 0;
+  border: none;
+  text-align: left;   
+  }
+  
+  /* BEGIN (write your solution here) */
+  li {
+  margin-bottom: 10px;
+  }
+  
+  /* END */
+  
